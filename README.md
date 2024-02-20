@@ -14,7 +14,7 @@
 
 # Tecnologias utilizadas
 
-* 'PHP'
+* `PHP`
 
 
   
