@@ -12,7 +12,7 @@
 
 # Descrição do Repositorio 📖
 
-# Tecnologias utilizadas
+# 💻 Tecnologias utilizadas
 
 * `PHP`
 * `HTML`
