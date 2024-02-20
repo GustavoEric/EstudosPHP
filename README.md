@@ -10,9 +10,11 @@
 * [Desenvolvedor](#desenvolvedor)
 * [Conclusão](#conclusão)
 
-# Descrição do Repositorio 📖
+# Descrição do Repositório 📖
+Este repositório eatá sendo totalmente para controle dos estudos em PHP.
+Quero sempre que possivel realizar algum site em PHP para não perder a pratica com o PHP
 
-# 💻 Tecnologias utilizadas
+# 💻 Tecnologias Utilizadas
 
 * `PHP`
 * `HTML`
