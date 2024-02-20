@@ -15,6 +15,8 @@
 # Tecnologias utilizadas
 
 * `PHP`
+* `HTML`
+* `SQL`
 
 
   
