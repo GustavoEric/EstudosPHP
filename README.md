@@ -9,7 +9,6 @@
 * [Status do Projeto](#status-do-Projeto)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-<<<<<<< HEAD
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
@@ -35,7 +34,3 @@ Quero sempre que possivel realizar algum site em PHP para não perder a pratica 
 * `PHP`
 * `HTML`
 * `SQL`
-
-
-  
->>>>>>> 0715ae8bbccc7eecba9dd511bf8bb5be14712852
